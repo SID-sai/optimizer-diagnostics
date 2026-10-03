@@ -1,0 +1,17 @@
+# Dataset
+fashion_mnist_images/
+fashion_mnist_images.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
